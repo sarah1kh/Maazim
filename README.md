@@ -6,18 +6,13 @@
 
 ---
 
-## 🔗 Live Demo
-
-- 🎥 [Video Demo](https://drive.google.com/drive/folders/1axU-AwVmvDp_Xm9sGVZvDjJ4ZP-lPyfa)
-
- ![Maazim UI Preview](assets/maazim-ui-preview.jpeg)
-
+ ![Maazim UI Preview](maazim-ui.jpeg)
 
 ---
 
-## 👑 Project Leadership
+## 🔗 Live Demo
 
-This project was led and managed by **Sarah Alkhuraiji**, who oversaw the end-to-end planning, coordination, and technical implementation phases—from concept to deployment.
+- 🎥 [Video Demo](https://drive.google.com/drive/folders/1axU-AwVmvDp_Xm9sGVZvDjJ4ZP-lPyfa)
 
 ---
 
