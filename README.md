@@ -100,8 +100,8 @@ Grateful to my team and instructors for their collaboration.
 ## 📬 Contact
 
 For questions or collaboration:
-- GitHub: [github.com/your-username](https://github.com/sarah1kh)
-- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/sarah-alkhuraiji1)
+- GitHub: [https://github.com/sarah1kh](https://github.com/sarah1kh)
+- LinkedIn: [https://www.linkedin.com/in/sarah-alkhuraiji1/](https://www.linkedin.com/in/sarah-alkhuraiji1/)
 
 ---
 
