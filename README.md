@@ -6,10 +6,6 @@
 
 ---
 
- ![Maazim UI Preview](maazim-ui.jpeg)
-
----
-
 ## 🔗 Live Demo
 
 - 🎥 [Video Demo](https://drive.google.com/drive/folders/1axU-AwVmvDp_Xm9sGVZvDjJ4ZP-lPyfa)
@@ -106,3 +102,7 @@ Grateful to my team and instructors for their collaboration.
 For questions or collaboration:
 - GitHub: [github.com/your-username](https://github.com/sarah1kh)
 - LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/sarah-alkhuraiji1)
+
+---
+
+ ![Maazim UI Preview](maazim-ui.jpeg)
